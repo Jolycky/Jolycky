@@ -1,7 +1,10 @@
 # 👨🏻‍💻 Jolycky / Jose Bagus Ramadhan
 
 **`Tech Artisan`**
+
 I'm a dedicated student with a passion for indie development and a clear goal to become a proficient DevOps professional. My primary interests lie in the backend, artificial intelligence, data, and cyber security domains. I thrive on continuous learning, always eager to explore new concepts and technologies. My approach to coding projects is comprehensive, starting from meticulous planning and design and extending to the practical application of solving real-world problems, particularly those aligned with Sustainable Development Goals (SDGs). I believe in building solutions from the ground up, creating not just functional code but impactful contributions to the world through technology.
+
+---
 
 ### 💻 Languages and Tools
 

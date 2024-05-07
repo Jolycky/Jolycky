@@ -1,4 +1,4 @@
-# 🚀👨🏻‍💻 Jolycky / Jose Bagus Ramadhan
+# 🌾👨🏻‍💻 Jolycky / Jose Bagus Ramadhan
 
 **`Tech Artisan`**
 
